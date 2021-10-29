@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**succorcoin/succorcoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 Succor Coin is establishing the new standard of DeFi tokenomics with its innovative automated buyback, collection, reward and burn system and revolutionary use-cases.
 
@@ -36,4 +33,3 @@ https://medium.com/@succorcoin
 
 ✅Website:
 https://succorcoin.com
--->
